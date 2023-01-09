@@ -4,3 +4,4 @@
  * @Description: 
  * @FilePath: /leetcodePractic/src/index.ts
  */
+console.log('ts')
